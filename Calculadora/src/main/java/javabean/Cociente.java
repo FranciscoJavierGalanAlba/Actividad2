@@ -2,7 +2,7 @@ package javabean;
 
 /** Clase que proporciona operación de división de una calculadora.
  * @author Alberto Velasco
- * @version 0.1
+ * @version 0.2
  */
 public class Cociente {
     
@@ -28,7 +28,7 @@ public class Cociente {
     /**
      * Método esError para verificar si ocurrió un error en el cálculo de la división
      * entre dos números enteros y devuelve el resultado.
-     * @param numerador Numerador de la división.
+     * @param resultado Resultado de la división.
      * @param divisor Divisor de la división.
      * @return {@code true} si hay un error, {@code false} si no hay error
      */
