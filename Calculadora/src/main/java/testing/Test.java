@@ -1,10 +1,18 @@
 package testing;
 
-import javabean.Cociente;
+
+/**
+ * Clase cuya función es probrar las clases de suma, resta,
+ * multiplicacion y division
+ *
+ */
 
 public class Test {
     public static void main(String[] args) {
-        Cociente cociente1 = new Cociente();
-        System.out.println(cociente1.calcular(10,2));
+
     }
-}
+    }
+
+
+
+
